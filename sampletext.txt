@@ -1,1 +1,7 @@
-this is some sample text to start version controlling
+this is some simple sample text.
+
+I made some more changes son!
+
+Sleepy.
+
+I made some changes to this file.
